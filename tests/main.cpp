@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() ghbdtn
+int main()
 {
 	int a = 2;
 
