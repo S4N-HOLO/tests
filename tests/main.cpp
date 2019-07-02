@@ -5,6 +5,5 @@ int main()
 	int b = 12;
 
 	printf("fggfgnfg %d", a*b);
-	return
-		0;
+	return 0;
 }
