@@ -1,9 +1,11 @@
+
 #include <stdio.h>
 int main()
 {
-	int a = 2;
+	int a;
+	scanf_s("input number %d", &a);
 	int b = 12;
-	int c = 1234;
-	printf("fggfgnfg %d", a*b-c);
+	int c = a * b;
+	printf("result %d", c);
 	return 0;
 }
