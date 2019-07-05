@@ -4,6 +4,7 @@ int main()
 {
 	int beta = arch();
 	seb(beta);
+	printf("%d", pite(beta));
 	
-	return 5460;
+	return 0;
 }

@@ -1,5 +1,11 @@
 
 int arch()
 {
-	return 9;
+	return 2;
+}
+int pite(int a)
+{
+	int b;
+	b = a * a * a;
+	return b;
 }
