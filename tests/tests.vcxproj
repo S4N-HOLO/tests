@@ -125,6 +125,7 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="arch.cpp" />
+    <ClCompile Include="Sxource.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="headers.h" />

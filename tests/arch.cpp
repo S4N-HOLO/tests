@@ -1,4 +1,5 @@
+
 int arch()
 {
-	return 1;
+	return 9;
 }

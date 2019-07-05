@@ -2,7 +2,8 @@
 #include <stdio.h>
 int main()
 {
-	int i = arch();
-	printf("%d", i);
-	return 0;
+	int beta = arch();
+	seb(beta);
+	
+	return 5460;
 }
