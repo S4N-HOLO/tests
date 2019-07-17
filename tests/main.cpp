@@ -1,10 +1,13 @@
-#include "headers.h"
-#include <stdio.h>
+#define a cout << "kek";
+
+
+#include <iostream>
+using namespace std;
+
 int main()
 {
-	int beta = arch();
-	seb(beta);
-	printf("%d", pite(beta));
-	
+
+	a;
+
 	return 0;
 }
