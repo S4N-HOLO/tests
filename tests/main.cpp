@@ -13,6 +13,7 @@ int main()
 	int a = 0;
 	ofstream output("a.txt");
 	output << a;
+	int b = a;
 
 	return (0);
 }
