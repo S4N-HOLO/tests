@@ -7,9 +7,10 @@ using namespace std;
 
 int main()
 {
-	string name = " Alex ";
-	ofstream output("alex.txt");
-	output << "yo " << name;
-
+	struct MyStruct
+	{
+		int a;
+		int b;
+	};
 	return (0);
 }
